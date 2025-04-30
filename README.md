@@ -1,5 +1,5 @@
 <фрагмент_вставки_значка>
-# lab05
+# lab06
 export GITHUB_USERNAME=samchik7
 
 
